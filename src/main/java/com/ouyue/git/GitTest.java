@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("shared github");
         System.out.println("remote modify test");
         System.out.println("modify test from gitee");
+        System.out.println("modify test from idea to gitee");
     }
 }
