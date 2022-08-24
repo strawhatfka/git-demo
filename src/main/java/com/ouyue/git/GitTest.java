@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("shared github");
         System.out.println("remote modify test");
+        System.out.println("modify test from gitee");
     }
 }
