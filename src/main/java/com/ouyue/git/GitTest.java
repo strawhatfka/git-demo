@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("remote modify test");
         System.out.println("modify test from gitee");
         System.out.println("modify test from idea to gitee");
+        System.out.println("更新内容 到github仓库");
     }
 }
